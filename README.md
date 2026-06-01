@@ -1,112 +1,17 @@
 <h1 align="center">Hi 👋, I'm Richer Alanano</h1>
-
-<h3 align="center">
-Software Developer | AI Enthusiast | LGU Employee
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Developer;AI+Enthusiast;LGU+System+Architect" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-💼 Working in a Local Government Unit (LGU)
-
-💻 Passionate about software development and automation
-
-🤖 Interested in Artificial Intelligence and business systems
-
-🚀 Building solutions that improve government services and operations
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,php,python,react,nextjs" />
-</p>
-
-### Data Formats
+I am a **Software Developer** embedded in a Local Government Unit (LGU), dedicated to bridging the gap between legacy government workflows and modern web technologies. My daily mission is building high-efficiency automation tools and secure business systems.
 
 ```json
 {
-  "language": "JSON"
+  "current_role": "LGU Full-Stack Developer",
+  "core_focus": ["GovTech Modernization", "Workflow Automation", "AI Integration"],
+  "data_architecture": "JSON-driven APIs"
 }
-```
-
-### Databases
-
-- MySQL
-- Firebird Database
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
-
----
-
-# ⭐ Featured Project
-
-## 🏛️ LGU Management System
-
-Comprehensive Local Government Unit Management Platform designed to streamline government processes and improve operational efficiency.
-
-### Key Features
-
-✅ Document Tracking
-
-✅ Records Management
-
-✅ User Management
-
-✅ Transaction Monitoring
-
-✅ Reports Generation
-
-✅ Dashboard Analytics
-
-✅ Role-Based Access Control
-
-### Technology Stack
-
-| Component | Technology |
-|------------|------------|
-| Frontend | ReactJS |
-| Frontend SSR | NextJS |
-| Backend | PHP / Python |
-| Database | Firebird |
-| Database | MySQL |
-| Data Format | JSON |
-
----
-
-## 🎯 Current Goals
-
-- Build scalable government solutions
-- Learn advanced AI development
-- Create automation tools
-- Improve software architecture skills
-- Develop SaaS applications
-
----
-
-## 📫 Connect With Me
-
-<p>
-<a href="https://github.com/YOUR_USERNAME">
-GitHub
-</a>
-</p>
-
----
-
-<div align="center">
-
-### "Technology is best when it improves people's lives."
-
-</div>
