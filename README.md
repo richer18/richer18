@@ -1,13 +1,13 @@
 <h1 align="center">About Me!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Developer;AI+Enthusiast;LGU+System+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Developer;AI+Enthusiast;LGU+System+Architect;Information+Technology+Specialist;Customer+Support+Experience+(non-voice);System+Administrator" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Software Developer
+- 💻 Software Developer, System Administrator , Customer Support Experience (non-voice) , QA Support Engineer
 - 🤖 Interested in AI Development
 - 🏛️ Working in a Local Government Unit (LGU)
 - 📊 Building Business and Government Systems
@@ -93,9 +93,9 @@
 
 ## 📫 Contact Me
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- Email: your-email@example.com
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- GitHub: https://github.com/richer18
+- Email: richer.alanano@yahoo.com
+- LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/richer-alanano-60572320b/)
 
 ---
 
