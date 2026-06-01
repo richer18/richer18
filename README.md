@@ -20,16 +20,12 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,html,css,typescript,c,c++,bash" />
 </p>
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel" />
 </p>
 
 ### Databases
