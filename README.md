@@ -43,15 +43,15 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=richer18&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richer18&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richer18" />
 </p>
 
 ---
