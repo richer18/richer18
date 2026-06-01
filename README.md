@@ -23,6 +23,10 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 </p>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+</p>
+
 ### Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs" />
