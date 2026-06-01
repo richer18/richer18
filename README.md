@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Richer Alanano</h1>
+<h1 align="center">About Me!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Developer;AI+Enthusiast;LGU+System+Architect" alt="Typing SVG" />
 </p>
