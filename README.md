@@ -43,17 +43,13 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richer18" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=richer18&show_icons=true&theme=tokyonight" alt="Richer's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richer18&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richer18" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=richer18&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richer18" />
-</p>
-
 ---
 
 ## 📂 Featured Projects
