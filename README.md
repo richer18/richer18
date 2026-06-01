@@ -93,7 +93,9 @@ A complete **Local Government Unit System** designed to digitalize and automate 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=richer18&theme=radical&margin-w=4](https://github-profile-trophies.vercel.app/?username=richer18&theme=tokyonight&column=7" alt="Richer's Trophies)" />
+  <a href="https://github.com/richer18">
+    <img src="https://github-profile-trophies.vercel.app/?username=richer18&theme=tokyonight&column=7" alt="Richer's Trophies" />
+  </a>
 </p>
 
 ---
