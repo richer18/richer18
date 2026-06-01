@@ -1,7 +1,6 @@
 # 💫 About Me:
 <h1 align="center">About Me!</h1><br><p align="center"><br>  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Developer;AI+Enthusiast;LGU+System+Architect;Information+Technology+Specialist;Customer+Support+Experience+(non-voice);System+Administrator" alt="Typing SVG" /><br></p><br><br>---<br><br>## 🚀 About Me<br><br>- 💻 Software Developer, System Administrator , Customer Support Experience (non-voice) , QA Support Engineer<br>- 🤖 Interested in AI Development<br>- 🏛️ Working in a Local Government Unit (LGU)<br>- 📊 Building Business and Government Systems<br>- 🌱 Currently learning AI, React, Python, and Automation<br>- 🎯 Goal: Build software products that generate recurring income
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dhamiandhark) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/richer-alanano-60572320b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/rich3r_t4n) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@RICH3RT4N) 
 
