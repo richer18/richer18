@@ -58,22 +58,6 @@
 
 ## 📂 Featured Projects
 
-### 🧾 Accounting System
-- Sales Management
-- Expense Tracking
-- Inventory Control
-- Financial Reports
-
-### 📦 Inventory Management System
-- Product Monitoring
-- Stock In/Out
-- Supplier Tracking
-
-### 🤖 AI Assistant
-- Chat Interface
-- AI Integration
-- Automation Tools
-
 ### 🏛️ LGU Management System
 - Document Tracking
 - Records Management
