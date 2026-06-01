@@ -43,11 +43,11 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richer18&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=richer18&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richer18&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richer18&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
